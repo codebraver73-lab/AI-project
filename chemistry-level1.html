@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chemistry Level I | IQ-TEEN</title>
+  <meta name="description" content="Chemistry Level I Easy Quiz - Test your basic chemistry knowledge on IQ-TEEN.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="preloader">
+    <div class="preloader-logo">IQ-<span>TEEN</span></div>
+    <div class="preloader-spinner"></div>
+  </div>
+
+  <div class="floating-bg"></div>
+
+  <nav class="navbar">
+    <div class="nav-container">
+      <a href="index.html" class="nav-logo">IQ-<span>TEEN</span></a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="maths.html">Maths</a></li>
+        <li><a href="physics.html">Physics</a></li>
+        <li><a href="chemistry.html" class="active">Chemistry</a></li>
+        <li><a href="biology.html">Biology</a></li>
+      </ul>
+      <div class="hamburger"><span></span><span></span><span></span></div>
+    </div>
+  </nav>
+  <div class="mobile-menu">
+    <a href="index.html">Home</a>
+    <a href="maths.html">Maths</a>
+    <a href="physics.html">Physics</a>
+    <a href="chemistry.html">Chemistry</a>
+    <a href="biology.html">Biology</a>
+  </div>
+
+  <main class="main-content page-wrapper">
+    <section class="quiz-header">
+      <h1 id="quiz-title">Chemistry - Level I (Easy)</h1>
+      <p>Answer all 10 questions below. Good luck!</p>
+    </section>
+
+    <div class="progress-container">
+      <div class="progress-bar-wrapper">
+        <div class="progress-bar-fill"></div>
+      </div>
+      <p class="progress-text">0 of 10 answered (0%)</p>
+    </div>
+
+    <div class="quiz-container" id="quiz-questions"></div>
+
+    <div class="quiz-submit">
+      <button class="btn btn-chemistry" id="submit-btn">Submit Answers</button>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>&#169; 2026 <span>IQ-TEEN</span>. All rights reserved.</p>
+  </footer>
+
+  <script>window.quizConfig = { subject: 'chemistry', level: 1 };</script>
+  <script src="script.js"></script>
+</body>
+</html>

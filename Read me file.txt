@@ -1,0 +1,36 @@
+Student information:
+-Student name: Joud Bassel Naji
+
+
+
+website name: 
+ -T-care a medical equipment's digital store.
+
+Description
+-This website is named "IQ-Teen" , its purpose is to make students able to test their knowledge in 4 sectors(math, biology, chemistry, physics)
+
+
+Technologies used:
+-Uizard
+-V0.dev
+-Intellisense
+-GitHub copilot
+
+How to use this project:
+-Open index.html 
+-scroll down until you reach the card section 
+-click on any card you want (There is 4 options math, biology, chemistry,physics)
+-after clicking you see a page with two cards in the middle, click one(Choose wisely because the quizzes differ a lot)
+-take the quiz
+-press submit
+-see your results
+
+
+My opinion: 
+-I liked very much V0.dev despite taking a lot of time yo write his prompt, it is a very good tool to developers whom had are familiar with coding, but I don't recommend it's usage to knew developers whom are unfamiliar with some things and coding languages.
+-Intellisense, is a great tool to make coding faster and easier, so I surely recommend this tool for all developers 
+-Uizard, isn't a great tool by my experience , it needs premium plan to be able to create a simple website design that could be generated with free tools.
+-GitHub copilot, this one is special because it explains every single line of code in a smart way using simple English while delivering all the important data about the code so I recommend a lot this tool.  
+
+
+
